@@ -11,3 +11,7 @@ Dataset:- **P6-OfficeSupplies.csv**
 Created new column Total sales
 
 > Total sales = 'P6-OfficeSupplies'[Unit Price] * 'P6-OfficeSupplies'[Units]
+
+NOTE:- As we can't apply more than 1 filter on 2 or more column/category in a single chart, i have gone by creating 3 charts shown below.
+
+![images](../../../images/challenge_1.jpg)
