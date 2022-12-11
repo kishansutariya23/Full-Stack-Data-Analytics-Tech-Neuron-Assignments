@@ -31,10 +31,10 @@ Please visit my <a href = "https://kishansutariya23.netlify.app/#home">portfolio
                 <br>
                 <a href="https://www.linkedin.com/in/kishankumar-sutariya/" target="_blank" class="fa fa-linkedin"><img src="https://img.icons8.com/fluency/45/000000/linkedin-circled.png"/>Linkedin</a>
                 <br>
-                <a href="https://www.instagram.com/ks23.code/" target="_blank" class="fa fa-instagram"> <img src="https://img.icons8.com/fluency/45/000000/instagram-new.png"/> Instagram</a>
+                <a href="https://www.instagram.com/ks23code/" target="_blank" class="fa fa-instagram"> <img src="https://img.icons8.com/fluency/45/000000/instagram-new.png"/> Instagram</a>
                 <br>
                 <a href="https://twitter.com/ks23_code" target="_blank" class="fa fa-twitter"><img src="https://img.icons8.com/color/45/000000/twitter--v1.png"/>Twitter</a>
                 <br>
-                <a href="https://www.youtube.com/channel/UCTznaXzOXeFZ8LzWxS0d6_A" target="_blank"class="fa fa-youtube"><img src="https://img.icons8.com/fluency/45/000000/youtube-play.png"/>Youtube</a>
+                <a href="https://www.youtube.com/@ks23code" target="_blank"class="fa fa-youtube"><img src="https://img.icons8.com/fluency/45/000000/youtube-play.png"/>Youtube</a>
    
 
